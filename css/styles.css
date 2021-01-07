@@ -1,0 +1,18 @@
+body {
+  background-image: url("image/maldives1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.dude {
+  background-color: rgb(189, 180, 180);
+}
+
+.gold {
+  background-color: gold;
+}
+
+.premier {
+  background-color: lightblue;
+}
